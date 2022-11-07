@@ -30,4 +30,5 @@
 
 # Usage
 **login**
-- admin - id : system, password : tiger
+admin - id)system/password)tiger
+user - id)aaaaaa/password)aaaaaa
