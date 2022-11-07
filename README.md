@@ -29,6 +29,11 @@
 - STS
 
 # Usage
+**database**
+1.SQL.zip 의 create로 테이블 생성
+2.SQL.zip 의 dummy로 데이터 생성
+3.final_hobbyplanet.zip 을 import 후 실행
+
 **login**
 admin - id)system/password)tiger
 user - id)aaaaaa/password)aaaaaa
