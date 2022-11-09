@@ -29,6 +29,7 @@
 - STS
 
 # File
+### 시연영상의 경우 용량때문에 따로 업로드하였습니다.
 - SQL.zip : oracle에 필요한 sql문들<br>
 - final_hobbyplnet.zip : JSP -> Spring으로 컨버젼한 프로젝트<br>
 - 시연영상(관리자) : 실제 프로젝트의 관리자 기능을 기록<br>
